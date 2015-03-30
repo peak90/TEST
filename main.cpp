@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "hello world " << endl;
+	cout << "merge with conflict" << endl;
 	cout << "add another two files" << endl;
 }
