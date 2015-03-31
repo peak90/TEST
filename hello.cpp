@@ -1,6 +1,10 @@
 #include "hello.h"
 #include<iostream>
 
-void foo() {
-	cout << "in foo function" << endl;
+void foxx() {
+	cout << "ixxn foo function" << endl;
+}
+
+void alg() {
+	cout << "in alg function to create some function" << endl;
 }

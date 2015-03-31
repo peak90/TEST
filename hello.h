@@ -1,1 +1,2 @@
-void foo();
+void fooxx();
+void alg();
