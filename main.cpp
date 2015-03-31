@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
+xxx
+xx
 void fx();
 void fff()
 int main() {
