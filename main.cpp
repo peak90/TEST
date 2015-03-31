@@ -2,7 +2,7 @@
 using namespace std;
 void fx();
 int main() {
-	cout << "merge with conflict resolution" << endl;
+	cout << "xoxoxo merge againmerge with conflict resolution" << endl;
 	cout << "helo world xoxoxox";
 	cout << "add another xxfiles" << endl;
 }
