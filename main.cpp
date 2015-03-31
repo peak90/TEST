@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
-void ff();
+void fx();
 int main() {
 	cout << "merge with conflict resolution" << endl;
 	cout << "helo world xoxoxox";
-	cout << "add another two files" << endl;
+	cout << "add another xxfiles" << endl;
 }
 
-void ff() {
+void fx() {
 	int a = 10;
 	int b = 10;
 	int c = a + b;
