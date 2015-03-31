@@ -3,7 +3,7 @@ using namespace std;
 void fx();
 int main() {
 	cout << "xoxoxo merge againmerge with conflict resolution" << endl;
-	cout << "helo world xoxoxox";
+	cout << "xxkdjalfadfhelo world xoxoxox";
 	cout << "add another xxfiles" << endl;
 }
 
