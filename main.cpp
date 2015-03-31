@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 void fx();
+void fff()
 int main() {
 	cout << "xoxoxo merge againmerge with conflict resolution" << endl;
 	cout << "xxkdjalfadfhelo world xoxoxox";
