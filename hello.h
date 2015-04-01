@@ -1,2 +1,2 @@
 void fooxx();
-void alg();
+void xxxxalg();
