@@ -2,8 +2,5 @@
 using namespace std;
 
 int main() {
-	cout << "change the main.cpp in the branch----";
-	cout << "---------------learn git push and pull";
-	cout << "add somdfadfae thing"
-	cout << "adfafad";
+	cout << "IN MAIN" << endl;
 }
