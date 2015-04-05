@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-
+void fff();
 int main() {
-	cout << "IN MAIN" << endl;
+	cout << "do something";
+	cout << "better call soul";
+	cout << "come bobay";
 }
