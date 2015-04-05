@@ -1,9 +1,14 @@
 #include "hello.h"
 #include<iostream>
 
-void alg() {
+void checkFile() {
 }
-void sub() {
+
+void sendMsg() {
 }
-void div() {
+
+void react() {
+}
+
+void render() {
 }
