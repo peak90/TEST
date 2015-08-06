@@ -2,7 +2,7 @@
 using namespace std;
 void fff();
 int main() {
-	cout << "do something";
+	cout << "Add feature A";
 	cout << "better call soul";
 	cout << "come bobay";
 }
